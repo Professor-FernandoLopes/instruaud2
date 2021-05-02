@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
+import ReactLanguageSelect from 'react-languages-select';
+import 'react-languages-select/css/react-languages-select.css';
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -21,6 +23,7 @@ const defaultProps = {
 }
 
 const Header = ({
+  handleLangChange,
   className,
   navPosition,
   hideNav,
@@ -74,6 +77,11 @@ const Header = ({
     className
   );
 
+
+  const onSelectLanguage = (languageCode) => {
+    handleLangChange(languageCode);
+  }
+
   return (
     <header
       {...props}
@@ -113,6 +121,14 @@ const Header = ({
                     )}>
                     <li>
                       <a href="https://ipfs.io/ipfs/QmP2YuGb7EaDkzBJbEeLaF6tGaHoREKdTyUVyu43ddB14b"> WhitePaper </a>
+                    </li>
+                    <li>
+                    <ReactLanguageSelect
+                    languages={["en", "pt"]} 
+                    customLabels={{"en": "🇬🇧: English", "pt": "🇧🇷: Português"}}
+                    defaultLanguage="pt"
+                    onSelect={onSelectLanguage}
+                    />
                     </li>
                   </ul>
                   {!hideSignin &&
