@@ -20,12 +20,13 @@ const Logo = ({
     >
       <h1 className="m-0">
         <Link to="/">
+          <div style={{marginTop: 80}}>
           <Image
-            src={require('./../../../assets/images/instruaud.png')}
+            src={require('./../../../assets/images/instruaud_logo.png')}
             alt="Open"
-            width={76}
-            height={76} />
-            
+            width={120}
+             />
+          </div>  
         </Link>
       </h1>
     </div>

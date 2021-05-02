@@ -5,6 +5,8 @@ import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
+import { KEYS } from '../../i18n'
+import { useIntl } from 'react-intl'
 
 const propTypes = {
   ...SectionProps.types
@@ -24,7 +26,7 @@ const Hero = ({
   invertColor,
   ...props
 }) => {
-
+  const intl = useIntl();
   const [videoModalActive, setVideomodalactive] = useState(false);
 
   const openModal = (e) => {
@@ -61,16 +63,16 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              A primeira criptomoeda <span className="text-color-success">de uma empresa consolidada na prestação de serviços de saúde</span>
+            {intl.formatMessage({ id: KEYS.HOME_TITLE1 })}<span className="text-color-success">{intl.formatMessage({ id: KEYS.HOME_TITLE2 })}</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                O token instruaud insere os serviços de saúde na realidade 4.0
+              {intl.formatMessage({ id: KEYS.HOME_SUBTITLE })}
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="success" wideMobile href="http://storedex.tokenizabens.com/">
-                  Reserve já! <i style={{fontSize:"10px"}}></i>
+                  {intl.formatMessage({ id: KEYS.RESERVE_NOW })} <i style={{fontSize:"10px"}}></i>
                     </Button>
                   
                 </ButtonGroup>
