@@ -35,7 +35,7 @@ const config = {
     // 'rainbow' or 'solid' color of lines
     colorMode: 'rainbow',
     // Color of lines if colorMode: 'solid', must be hex color
-    color: 'white',
+    color: 'green',
     // Transparency of lines
     transparency: 0.9,
     // true/false limit the maximum number of line connections per particle
@@ -50,7 +50,8 @@ const config = {
     // 'rainbow' or 'solid' color of particles
     colorMode: 'solid',
     // Color of lines if colorMode: 'solid', must be hex color
-    color: "#6163ff",
+    color: "green",
+    
     // Transparency of particles
     transparency: 0.9,
     // 'square' or 'circle' shape of particles

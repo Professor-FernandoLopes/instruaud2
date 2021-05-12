@@ -7,6 +7,6 @@ export default {
     [keys.HOME_TITLE1]: 'The first cryptocurrency ',
     [keys.HOME_TITLE2]: 'of a consolidated company in the health care services in Brazil',
     [keys.HOME_SUBTITLE]: 'The instruaud token inserts health care services into reality 4.0',
-    [keys.RESERVE_NOW]: 'Regsiter for Presale now!',
+    [keys.RESERVE_NOW]: 'Register for Presale now!',
   },
 };

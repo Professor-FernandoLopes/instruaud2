@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Atendimento personalizado com os melhores consultores do e-commerce 4.0 ',
-    paragraph: 'A Decenterprise ajuda você a inserir sua empresa no e-commerce 4.0 por meio de um atendimento personalizado com alguns dos mais gabaritados consultores desse novo mercado. Converse hoje mesmo com o Fernando Lopes, um de nossos consultores que já foi destaque na mídia nacional e internacional especializada em processos de tokenização:'
+    title: 'A Instruaud é uma empresa que investe na saúde dos brasileiros',
+    paragraph: 'Como o dom de cuidar pulsa no coração da Instruaud, não cansamos de investir em sua saúde, sendo a venda do token Instruaud destinada a compra destes e outros insumos: '
   };
 
   return (
@@ -62,14 +62,18 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  "(...) pointed out Lopes. “Cryptoproperty only makes buying easier, replacing traditional intermediaries. It is a new technology that allows the purchase and sale of goods directly between the parties, which until then was impossible to be carried out over the internet in this type of market ”, he explains." 
+                  01 aeronave king Air B200 ou 
+similar homologada para UTI aérea e mais 15 Vans tipo Mercedes Bens Modelo 
+416, implementação e acessórios para transformação em AMBULÂNCIA UTI
+tipo “D” aparelhos, equipamentos e insumos diversos, componentes finais do 
+processo de transformação dos veículos.  
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Igrid Homs</span>
-                  <span className="text-color-low"> / </span>
+                 
+                  <span className="text-color-low">  </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">https://bitcoindynamic.com/</a>
+                    
                   </span>
                 </div>
               </div>
@@ -79,14 +83,17 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — 根据该项目的创建者之一费尔南多·洛佩斯（Fernando Lopes）的说法，该计划的目的是让买家购买一部分或全部房产。 通过这种方式，进行投资，不同于他认为已经进行了投资的比特币和其他加密货币。.
+                  Ambulância de Suporte Avançado Tipo D (UTI Móvel) – Veículo destinado ao 
+atendimento e transporte de pacientes de alto risco em emergências préhospitalares e/ou de transporte inter-hospitalar que necessitam de cuidados 
+médicos intensivos. Devendo contar com os equipamentos médicos necessários 
+e profissionais habilitados para esta função.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">wanbizu AI</span>
-                  <span className="text-color-low"> / </span>
+                
+                  <span className="text-color-low">  </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">https://www.sxyrkj.cn/25367.html</a>
+                   
                   </span>
                 </div>
               </div>
@@ -96,14 +103,19 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                 (...) uma imobiliária que aluga ou vende um imóvel por meio das criptomoedas fica com todo o valor do cashback, que seria parte do dinheiro da compra recebido de volta, enquanto o inquilino teria o desconto do valor que receberia de volta no pagamento. Explica Fernando Lopes, advogado curitibano que também é blockchain/IOT developer e assessorou o processo.
+                  Aeronave (bimotora turboélice) requisitos mínimos obrigatórios:a) Deverá conter todos os equipamentos descritos para ambulâncias de suporte 
+avançado, tanto adulto como infantil e neonatal, com as adaptações necessárias 
+para o uso em ambientes hiperbáricos, homologados pelos órgãos competentes, 
+conforme resolução CFM nº. 1.671, de 9 de julho de 2003; b) Tripulante(s): Um 
+piloto e um co piloto; c) Equipe médica: Um médico e um enfermeiro; d) 
+Passageiros: Um paciente e um acompanhante.
                       </p>
                 </div> 
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Mirian Gasparin</span>
-                  <span className="text-color-low"> / </span>
+                  
+                  <span className="text-color-low">  </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">https://miriangasparin.com.br/</a>
+                    
                   </span>
                 </div>
               </div>
