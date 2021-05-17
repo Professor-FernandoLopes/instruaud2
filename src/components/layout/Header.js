@@ -120,6 +120,9 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
+                    <Link to="/roadmap">Roadmap</Link>
+                    </li>                  
+                    <li>
                       <a href="https://ipfs.io/ipfs/QmP2YuGb7EaDkzBJbEeLaF6tGaHoREKdTyUVyu43ddB14b"> WhitePaper </a>
                     </li>
                     <li>
