@@ -65,7 +65,7 @@ const Testimonial = ({
                   01 aeronave king Air B200 ou 
 similar homologada para UTI aérea e mais 15 Vans tipo Mercedes Bens Modelo 
 416, implementação e acessórios para transformação em AMBULÂNCIA UTI
-tipo “D” aparelhos, equipamentos e insumos diversos, componentes finais do 
+tipo “D”, aparelhos, equipamentos e insumos diversos, componentes finais do 
 processo de transformação dos veículos.  
                       </p>
                 </div>
@@ -84,7 +84,7 @@ processo de transformação dos veículos.
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
                   Ambulância de Suporte Avançado Tipo D (UTI Móvel) – Veículo destinado ao 
-atendimento e transporte de pacientes de alto risco em emergências préhospitalares e/ou de transporte inter-hospitalar que necessitam de cuidados 
+atendimento e transporte de pacientes de alto risco em emergências pré-hospitalares  e/ou de transporte inter-hospitalar que necessitam de cuidados 
 médicos intensivos. Devendo contar com os equipamentos médicos necessários 
 e profissionais habilitados para esta função.
                       </p>
