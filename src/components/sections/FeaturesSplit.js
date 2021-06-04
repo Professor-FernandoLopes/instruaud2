@@ -71,7 +71,7 @@ const FeaturesSplit = ({
                   Faça parte de nossa comunidade.
                   </h3>
                 <p className="m-0">
-                A INSTRUAUD – Sistema Integrado de Cuidados e Administração de Serviços em Saúde é uma empresa de Serviços de Home Care, Remoção em UTI Aérea e Terrestre, Auditoria Hospitalar e Médica. Atuamos no mercado de grandes empresas, operadoras de Planos de Saúde e Instituições Hospitalares. Temos uma equipe multiprofissional composta por Médicos Generalistas, Enfermeiros, Fisioterapeutas, Nutricionistas, Fonoaudiologos, Terapeuta Ocupacional, além de todos o suporte de administradores com ampla experiência no segmento em saúde. 
+                A INSTRUAUD – Sistema Integrado de Cuidados e Administração de Serviços em Saúde é uma empresa de Serviços de Home Care, Remoção em UTI Aérea e Terrestre, Auditoria Hospitalar e Médica. Atuamos no mercado de grandes empresas, operadoras de Planos de Saúde e Instituições Hospitalares. Temos uma equipe multiprofissional composta por Médicos Generalistas, Enfermeiros, Fisioterapeutas, Nutricionistas, Fonoaudiologos, Terapeuta Ocupacional, além de todo o suporte de administradores com ampla experiência no segmento em saúde. 
                   </p>
               </div>
               <div className={
@@ -124,7 +124,7 @@ Nossas UTI´s Aéreas são dotadas de equipamentos modernos de última geração
                 O dom de cuidar pulsa no Coração desta empresa!
                   </h3>
                 <p className="m-0">
-                Remoção eletiva de pacientes, normalmente tem como finalidade a realização de exames, consultas, retorno para residência após alta hospitalar, mudança de residência e outros.
+                Remoção eletiva de pacientes normalmente tem como finalidade a realização de exames, consultas, retorno para residência após alta hospitalar, mudança de residência e outros.
 
 Serviço prestado em ambulância avançada (UTI), composta de maca retrátil, monitor cardíaco multiparâmetro, respirador, prancha a vácuo, bomba de infusão, suporte de soro, comadre, papagaio, estetoscópio, termômetro, glicosímetro, cilindro de O², maleta de materiais e medicamentos, dentre outros utensílios.
 

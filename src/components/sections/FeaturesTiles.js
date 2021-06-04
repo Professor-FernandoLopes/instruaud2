@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Seja um CryptoAmbassador da Instruaud',
-    paragraph: 'Ao adquirir a cryptomoeda Instruaud você adquire o status de cryptoAmbassador e recebe  parte da receita operacional líquida anual do Faturamento estimada entre 5% e 8% ao ano, conforme sua contribuição para a formação da comunidade Instruaud: uma comunidade voltada a melhorar a prestação dos serviços de saúde no Brasil, gerar empregos no setor, e combater os efeitos da covid 19.'
+    paragraph: 'Ao adquirir a cryptomoeda Instruaud você adquire o status de cryptoAmbassador e recebe  parte do lucro líquido anual até 6%, conforme sua contribuição para a formação da comunidade Instruaud: uma comunidade voltada a melhorar a prestação dos serviços de saúde no Brasil, gerar empregos no setor, e combater os efeitos da covid 19.'
   };
 
   return (
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Benefícios
                     </h4>
                   <p className="m-0 text-sm">
-                  O cryptoAmbassador tem a possibilidade de receber  parte da receita operacional líquida anual do faturamento estimada entre 5% e 8% ao ano, conforme sua contribuição para a formação da comunidade Instruaud. 
+                  O cryptoAmbassador tem a possibilidade de receber  parte do lucro líquido anual até 6%, conforme sua contribuição para a formação da comunidade Instruaud. 
                        
                     </p>
                 </div>
@@ -119,7 +119,7 @@ const FeaturesTiles = ({
                      Responsabilidade social
                     </h4>
                   <p className="m-0 text-sm">
-                  A comunidade Instruaud tem por objetivo a implantação de 26 novas bases de atendimento espalhadas em todas as capitais do Brasil, proporcionando a geração de mais de 3.600 posto de trabalho diretos e mais de 1500 indiretos ligados a aérea da Saúde. 
+                  A comunidade Instruaud tem por objetivo a implantação de 26 novas bases de atendimento espalhadas em todas as capitais do Brasil, proporcionando a geração de mais de 3.600 postos de trabalho diretos e mais de 1500 indiretos ligados a aérea da Saúde. 
                     </p>
                 </div>
               </div>
@@ -141,7 +141,7 @@ const FeaturesTiles = ({
                    Transparência 
                     </h4>
                   <p className="m-0 text-sm">
-                   Os CryptoAmbassadors  terão a oportunidade de conhecer todo o processo da INSTRUAUD no transporte de pacientes de suporte avançado em UTI aérea e terrestre e na prestação dos serviços de Home Care.
+                   Os CryptoAmbassadors  terão a oportunidade de conhecer todo o processo da INSTRUAUD no transporte de pacientes de suporte avançado em UTI área e terrestre e na prestação dos serviços de Home Care.
                     </p>
                 </div>
               </div>
