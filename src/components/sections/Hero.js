@@ -71,7 +71,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="success" wideMobile href="http://storedex.tokenizabens.com/">
+                  <Button tag="a" color="success" wideMobile href="https://presale.instruaud.com/">
                   {intl.formatMessage({ id: KEYS.RESERVE_NOW })} <i style={{fontSize:"10px"}}></i>
                     </Button>
                   
