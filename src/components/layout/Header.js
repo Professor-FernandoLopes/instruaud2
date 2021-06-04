@@ -123,7 +123,7 @@ const Header = ({
                     <Link to="/roadmap">Roadmap</Link>
                     </li>                  
                     <li>
-                      <a href="https://ipfs.io/ipfs/QmP2YuGb7EaDkzBJbEeLaF6tGaHoREKdTyUVyu43ddB14b"> WhitePaper </a>
+                      <a href="/IAUD_WHITEPAPER.pdf" target="_blank"> WhitePaper </a>
                     </li>
                     <li>
                     <ReactLanguageSelect

@@ -86,7 +86,7 @@ const Hero = ({
               
             <a
             
-               data-video="https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/VID-20191116-WA0004.mp4?alt=media&token=https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/VID-20191116-WA0004.mp4?alt=media&token=13da9884-899a-47d7-ad29-4db71e3324cc"
+               data-video="/instruaud_video.mp4"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -103,7 +103,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/Design%20sem%20nome%20(1).mp4?alt=media&token=21d1167c-e11e-4ca2-9f7c-295581187075"
+            video="/instruaud_video.mp4"
             videoTag="iframe" />
         </div>
       </div>
