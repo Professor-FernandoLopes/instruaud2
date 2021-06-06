@@ -119,7 +119,7 @@ const FeaturesTiles = ({
                      Responsabilidade social
                     </h4>
                   <p className="m-0 text-sm">
-                  A comunidade Instruaud tem por objetivo a implantação de 26 novas bases de atendimento espalhadas em todas as capitais do Brasil, proporcionando a geração de mais de 3.600 postos de trabalho diretos e mais de 1500 indiretos ligados a aérea da Saúde. 
+                  A comunidade Instruaud tem por objetivo a implantação de 26 novas bases de atendimento espalhadas em todas as capitais do Brasil, proporcionando a geração de mais de 3.600 postos de trabalho diretos e mais de 1500 indiretos ligados a área da Saúde. 
                     </p>
                 </div>
               </div>
