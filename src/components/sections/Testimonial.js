@@ -62,8 +62,8 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  01 aeronave king Air B200 ou 
-similar homologada para UTI aérea e mais 15 Vans tipo Mercedes Bens Modelo 
+                  01 aeronave King Air ou 
+similar homologada para UTI aérea e mais 20 Vans tipo Mercedes Bens Modelo 
 416, implementação e acessórios para transformação em AMBULÂNCIA UTI
 tipo “D”, aparelhos, equipamentos e insumos diversos, componentes finais do 
 processo de transformação dos veículos.  
