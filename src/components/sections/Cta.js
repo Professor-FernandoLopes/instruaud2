@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Input from '../elements/Input';
-import Particles from "./partials/particles"
+// import Particles from "./partials/particles"
+import Image from '../elements/Image';
+
 const propTypes = {
   ...SectionProps.types,
   split: PropTypes.bool
@@ -48,14 +50,22 @@ const Cta = ({
       className={outerClasses}
     >
       <div className="container">
-        <div
+        <center>
+      <Image
+            src={require('../../assets/images/iaud_3d.gif')}
+            alt="Open"
+            width={300}
+             />
+      </center>
+        {/* <div
           className={innerClasses}
         >
           <div className="cta-slogan">
             
           </div>
+          
           <Particles/>
-        </div>
+        </div> */}
       </div>
     </section>
   );

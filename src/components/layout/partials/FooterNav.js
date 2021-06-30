@@ -19,10 +19,10 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://tokenizabens.com/contato">Contact</a>
+          <a href="https://www.instruaud.com.br/contato/">Contato</a>
         </li>
         <li>
-          <a href= "https://ipfs.io/ipfs/QmP2YuGb7EaDkzBJbEeLaF6tGaHoREKdTyUVyu43ddB14b">About us</a>
+          <a href= "https://www.instruaud.com.br">Sobre</a>
         </li>
        
       </ul>

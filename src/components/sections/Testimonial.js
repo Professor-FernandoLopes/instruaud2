@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'A Instruaud é uma empresa que investe na saúde dos brasileiros',
-    paragraph: 'Como o dom de cuidar pulsa no coração da Instruaud, não cansamos de investir em sua saúde, sendo a venda do token Instruaud destinada a compra destes e outros insumos: '
+    paragraph: 'Como o dom de cuidar pulsa no coração da Instruaud, não cansamos de investir em sua saúde, sendo a venda do token Instruaud destinada a abertura de mais 26 unidades em todas as capitais do Brasil. '
   };
 
   return (
@@ -62,11 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  01 aeronave king Air B200 ou 
-similar homologada para UTI aérea e mais 15 Vans tipo Mercedes Bens Modelo 
-416, implementação e acessórios para transformação em AMBULÂNCIA UTI
-tipo “D” aparelhos, equipamentos e insumos diversos, componentes finais do 
-processo de transformação dos veículos.  
+                  A Instruaud com um modelo totalmente inovador e humanizado marca registrada da empresa, irá proporcionar serviços com alto grau de excelência na área de transporte de pacientes e serviços de Home Care aos quatro cantos do Brasil.  
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -83,10 +79,11 @@ processo de transformação dos veículos.
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  Ambulância de Suporte Avançado Tipo D (UTI Móvel) – Veículo destinado ao 
-atendimento e transporte de pacientes de alto risco em emergências préhospitalares e/ou de transporte inter-hospitalar que necessitam de cuidados 
-médicos intensivos. Devendo contar com os equipamentos médicos necessários 
-e profissionais habilitados para esta função.
+                  Serão 26 unidadas sediadas em todas as capitais do Brasil nos proxímos 10 anos
+com ambulâncias e aeronaves novas, equipamentos de última geração e profissionais
+altamente qualificados. A instruaud junto com você Ambassador irá promover uma 
+revolução na área da saúde com a prestação dos melhores serviços de transparte aéreo, terrestre 
+e Home Care do Brasil e quiça do Mundo.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -98,17 +95,13 @@ e profissionais habilitados para esta função.
                 </div>
               </div>
             </div>
+            
 
             <div className="tiles-item reveal-from-left" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                  Aeronave (bimotora turboélice) requisitos mínimos obrigatórios:a) Deverá conter todos os equipamentos descritos para ambulâncias de suporte 
-avançado, tanto adulto como infantil e neonatal, com as adaptações necessárias 
-para o uso em ambientes hiperbáricos, homologados pelos órgãos competentes, 
-conforme resolução CFM nº. 1.671, de 9 de julho de 2003; b) Tripulante(s): Um 
-piloto e um co piloto; c) Equipe médica: Um médico e um enfermeiro; d) 
-Passageiros: Um paciente e um acompanhante.
+                  Nossa 1ª unidade de expasão será implantada no coração do Amazonas na capital Manaus considerada a sétima cidade mais populosa do Brasil, e sua região metropolitana, com mais de 2,7 milhões de habitantes, é a 11.ª mais populosa do país. Serão 26 unidades abertas ao longo dos proxímos 10 anos e você terá a chance única de se tornar um Crypto Ambassador e fazer parte de cada uma delas através do token INSTRUAUD - (IAUD).
                       </p>
                 </div> 
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
