@@ -37,7 +37,7 @@ const Hero = ({
   const closeModal = (e) => {
     e.preventDefault();
     setVideomodalactive(false);
-  }   
+  }
 
   const outerClasses = classNames(
     'hero section center-content',
@@ -63,30 +63,34 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-            {intl.formatMessage({ id: KEYS.HOME_TITLE1 })}<span className="text-color-success">{intl.formatMessage({ id: KEYS.HOME_TITLE2 })}</span>
+              {intl.formatMessage({ id: KEYS.HOME_TITLE1 })}<span className="text-color-success">{intl.formatMessage({ id: KEYS.HOME_TITLE2 })}</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              {intl.formatMessage({ id: KEYS.HOME_SUBTITLE })}
-                </p>
+                {intl.formatMessage({ id: KEYS.HOME_SUBTITLE })}
+              </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
+                <h2>{intl.formatMessage({ id: KEYS.PRESALES_STARTED })}</h2>
                 <ButtonGroup>
-                  <Button tag="a" color="success" wideMobile href="http://storedex.tokenizabens.com/">
-                  {intl.formatMessage({ id: KEYS.RESERVE_NOW })} <i style={{fontSize:"10px"}}></i>
-                    </Button>
-                  
+                  <Button tag="a" color="success" wideMobile href="https://presale.instruaud.com/bsc" target="_blank">
+                    {intl.formatMessage({ id: KEYS.COMPRAR_BSC })} <i style={{ fontSize: "10px" }}></i>
+                  </Button>
+                  <Button tag="a" color="success" wideMobile href="https://presale.instruaud.com/eth" target="_blank">
+                    {intl.formatMessage({ id: KEYS.COMPRAR_ETH })} <i style={{ fontSize: "10px" }}></i>
+                  </Button>
+
                 </ButtonGroup>
               </div>
             </div>
           </div>
-          
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800"> 
-          
-            
-              
+
+          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+
+
+
             <a
-            
-               data-video="https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/VID-20191116-WA0004.mp4?alt=media&token=https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/VID-20191116-WA0004.mp4?alt=media&token=13da9884-899a-47d7-ad29-4db71e3324cc"
+
+              data-video="/instruaud_video.mp4"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -103,7 +107,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://firebasestorage.googleapis.com/v0/b/instagram-df680.appspot.com/o/Design%20sem%20nome%20(1).mp4?alt=media&token=21d1167c-e11e-4ca2-9f7c-295581187075"
+            video="/instruaud_video.mp4"
             videoTag="iframe" />
         </div>
       </div>
